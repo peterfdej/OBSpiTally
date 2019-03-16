@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<data>
+	<host>127.0.0.1</host>
+	<port>4444</port>
+	<pass>secret</pass>
+	<scene>MxCam2</scene>
+</data>
